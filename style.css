@@ -1,0 +1,13 @@
+ul.menu{
+    list-style-type: circle;
+}
+
+ol.gandia{
+    list-style-type: upper-roman;
+}
+ol.segun{
+    list-style-type: lower-alpha;
+}
+li.segundo {
+    list-style-type: circle;
+}
